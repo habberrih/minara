@@ -57,7 +57,7 @@
     "@swc/core": "^1.15.3",
     "@types/express": "^5.0.6",
     "@types/jest": "^30.0.0",
-    "@types/node": "^24.10.1",
+    "@types/node": "^25.0.2",
     "@types/passport-jwt": "^4.0.1",
     "@types/supertest": "^6.0.2",
     "commitizen": "^4.3.1",
